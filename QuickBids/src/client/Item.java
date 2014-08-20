@@ -5,6 +5,8 @@ package client;
  * @author Jonathan
  * 
  * testing a different config
+ * 
+ * Again, testing git
  */
 public class Item {
     

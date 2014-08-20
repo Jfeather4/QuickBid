@@ -7,6 +7,8 @@ package client;
  * testing a different config
  * 
  * Again, testing git
+ * 
+ * .. a second test
  */
 public class Item {
     
